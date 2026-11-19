@@ -502,21 +502,21 @@ jQuery(document).ready(function(){
 /* TWITTER FUNCTION
 /*----------------------------------------------------*/		
 	
-	 jQuery(function($){
-        $("#tweet-feed").tweet({
-          count: 1,
-          username: "ubikas",
-          loading_text: "searching twitter..."
-        });
-      });
+// 	 jQuery(function($){
+//         $("#tweet-feed").tweet({
+//           count: 1,
+//           username: "ubikas",
+//           loading_text: "searching twitter..."
+//         });
+//       });
 
-	 jQuery(function($){
-        $("#tweet-widget").tweet({
-          count: 5,
-          username: "ubikas",
-          loading_text: "searching twitter..."
-        });
-      });
+// 	 jQuery(function($){
+//         $("#tweet-widget").tweet({
+//           count: 5,
+//           username: "ubikas",
+//           loading_text: "searching twitter..."
+//         });
+//       });
 	  
 /* ------------------------------------------------------------------------ */
 /* Mlestone Counter */
